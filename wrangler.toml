@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "drakeliang-cloudflare"
 type = "javascript"
-account_id = ""
+account_id = "76b9e5e71462d175af25d08f61e91f19"
 workers_dev = true
 route = ""
 zone_id = ""
